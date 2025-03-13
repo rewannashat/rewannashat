@@ -2,7 +2,7 @@
 A Flutter Developer from Gaza, now based in Egypt.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Shope App**
+- 🔭 I’m currently working on **Cleanco App**
 - 🌱 I’m currently learning **Flutter, Dart**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/rewannashat)
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/rewannashat)
