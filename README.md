@@ -1,23 +1,34 @@
-<h1 align="center">Hi 👋, I'm Rewan Nashat</h1>
-<h3 align="center">A Flutter Developer from Gaza, Now I'm in Egypt</h3>
+# Hi 👋, I'm Rewan Nashat
+A Flutter Developer from Gaza, now based in Egypt.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rewannashat&label=Profile%20views&color=0e75b6&style=flat" alt="rewannashat" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rewannashat5" target="blank"><img src="https://img.shields.io/twitter/follow/rewannashat5?logo=twitter&style=for-the-badge" alt="rewannashat5" /></a> </p>
-
-- 🔭 I’m currently working on [shope-app](https://github.com/rewannashat/shope-app.git)
-
+## 🚀 About Me
+- 🔭 I’m currently working on **Shope App**
 - 🌱 I’m currently learning **Flutter, Dart**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/rewannashat)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/rewannashat)
+- 💬 Ask me about **Dart, Responsive Design, State Management (Provider, Bloc)**
+- 📫 How to reach me: **mrrwan55@gmail.com**
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/rewannashat)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rewannashat](https://github.com/rewannashat)
+## 🌐 Connect with Me:
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/rewannashat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rewannashat)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/rewannashat5)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/rewannashat](www.linkedin.com/in/rewannashat)
+## 🛠️ Languages and Tools:
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
-- 💬 Ask me about **Dart, Responsive design, State management (Provider, Bloc)**
+Let's build something amazing together! ✨
 
-- 📫 How to reach me **mrrwan55@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/rewannashat](www.linkedin.com/in/rewannashat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
